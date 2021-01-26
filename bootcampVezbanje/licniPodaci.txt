@@ -1,4 +1,4 @@
 "Bojana Milosevic"
 "Diplomirani defektolog-poremecaji ponasanja"
-"bojanccica"bash: T: command not found
+"bojanccica"
 
